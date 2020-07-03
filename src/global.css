@@ -1,0 +1,18 @@
+body {
+  background-color: #f4f4f4;
+}
+
+select {
+  outline: none;
+}
+
+button {
+  border: none;
+  outline: none;
+}
+
+.main {
+  max-width: 933px;
+  margin: 0 auto;
+  padding: 0 3%;
+}

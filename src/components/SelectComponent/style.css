@@ -1,0 +1,23 @@
+.select-wrapper {
+  height: 35px;
+  width: 100%;
+  margin: 1% 0;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 2px solid #c5c5c5;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.select-drop {
+  flex-grow: 1;
+  border: none;
+  background-color: unset;
+  appearance: none;
+  background: url('../../assets/svg/arrow_down.svg');
+  background-repeat: no-repeat;
+  background-position-x: 100%;
+  background-position-y: 1px;
+}

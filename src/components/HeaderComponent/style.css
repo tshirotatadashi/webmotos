@@ -1,0 +1,21 @@
+.app-header {
+  margin: 5%;
+}
+
+@media (min-width: 400px) {
+  .app-header {
+    margin: 2%;
+  }
+  .app-logo {
+    height: 35px;
+  }
+}
+
+@media (min-width: 600px) {
+  .app-header {
+    margin: 1%;
+  }
+  .app-logo {
+    height: 40px;
+  }
+}

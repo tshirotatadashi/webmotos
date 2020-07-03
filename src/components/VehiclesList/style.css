@@ -1,0 +1,171 @@
+.vehicles-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 10%;
+  width: 100%;
+}
+
+.vehicle-item {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 10%;
+  overflow: hidden;
+}
+
+.vehicle-image {
+  display: flex;
+  align-items: center;
+  height: 150px;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 3px;
+  border: 1px solid #c5c5c5;
+}
+
+.vehicle-image img {
+  width: 100%;
+}
+
+.vehicle-title {
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 10px;
+  font-size: 1.3rem;
+  font-family: sans-serif;
+}
+
+.vehicle-title span:first-child {
+  margin-right: 5px;
+}
+
+.vehicle-version {
+  color: #838383;
+  font-style: oblique;
+  font-size: 0.8rem;
+  width: 100%;
+  padding: 0 15%;
+  margin-bottom: 5%;
+  text-align: center;
+}
+
+.vehicle-Price {
+  position: relative;
+  width: 100%;
+  padding: 8%;
+  text-align: center;
+  font-size: 2.5rem;
+  font-style: italic;
+  font-family: monospace;
+}
+.vehicle-Price span {
+  font-size: 0.8rem;
+  position: absolute;
+  top: 15px;
+  left: 50px;
+}
+
+.list-pages {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 0 40%;
+}
+
+.selected-page {
+  font-size: 1.2rem;
+  color: #f51344;
+}
+
+@media (min-width: 400px) {
+  .vehicle-image {
+    height: 200px;
+  }
+  .vehicle-Price span {
+    font-size: 1.2rem;
+    position: absolute;
+    top: 20px;
+    left: 80px;
+  }
+  .list-pages {
+    padding: 0 45%;
+  }
+}
+
+@media (min-width: 500px) {
+  .vehicle-item {
+    width: 45%;
+  }
+
+  .vehicle-image {
+    height: 100px;
+  }
+
+  .vehicle-title {
+    font-size: 1rem;
+  }
+
+  .vehicle-Price {
+    font-size: 2rem;
+  }
+
+  .vehicle-Price span {
+    font-size: 1.2rem;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+}
+
+@media (min-width: 600px) {
+  .vehicle-image {
+    height: 135px;
+  }
+
+  .vehicle-Price span {
+    top: 10px;
+    left: 30px;
+  }
+}
+
+@media (min-width: 700px) {
+  .vehicle-image {
+    height: 160px;
+  }
+}
+
+@media (min-width: 800px) {
+  .list-pages {
+    padding: 0 47%;
+  }
+  .vehicle-item {
+    width: 22%;
+  }
+
+  .vehicle-image {
+    height: 95px;
+  }
+
+  .vehicle-Price {
+    font-size: 1.5rem;
+  }
+
+  .vehicle-title {
+    font-size: 0.8rem;
+  }
+
+  .vehicle-version {
+    font-size: 0.7rem;
+    width: 100%;
+  }
+
+  .vehicle-Price span {
+    font-size: 0.8rem;
+    position: absolute;
+    top: 10px;
+    left: 15px;
+  }
+}

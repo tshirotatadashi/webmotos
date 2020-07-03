@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Grupo_1151"
+   width="15.948"
+   height="15.948"
+   data-name="Grupo 1151"
+   viewBox="0 0 15.948 15.948"
+   version="1.1"
+   sodipodi:docname="filter_icon.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="14.798094"
+     inkscape:cx="7.974"
+     inkscape:cy="7.974"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Grupo_1151" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+            .cls-1{fill:#23315e}.cls-2{fill:none}
+        </style>
+  </defs>
+  <path
+     style="fill:#636363;fill-opacity:1;stroke:none;stroke-width:0.06757627"
+     d="M 7.8118169,13.641736 C 7.2357292,13.457256 6.7187707,13.261053 6.6630203,13.205729 6.5778482,13.12121 6.5562585,12.706687 6.5278678,10.61079 L 6.4940796,8.1164381 4.6019441,5.7364569 C 2.2051775,2.7217368 2.2029864,2.7188165 2.2029864,2.5391043 c 0,-0.082707 0.070381,-0.2164952 0.156402,-0.2973079 l 0.156402,-0.146932 H 8.002007 c 5.396115,0 5.488437,0.00222 5.621369,0.1351525 0.299923,0.2999232 0.263988,0.3574385 -2.027288,3.2447144 L 9.4336474,8.1996596 v 2.6546174 c 0,1.801589 -0.024109,2.707532 -0.075028,2.819287 -0.066966,0.146974 -0.3256358,0.32395 -0.4518676,0.309157 -0.026126,-0.0031 -0.5188473,-0.156504 -1.0949349,-0.340985 z"
+     id="path880"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccscssccscscsscc" />
+  <path
+     id="Retângulo_96"
+     d="M0 0h15.948v15.948H0z"
+     class="cls-2"
+     data-name="Retângulo 96" />
+</svg>

@@ -1,0 +1,15 @@
+.app-button {
+  background-color: #f51344;
+  text-transform: uppercase;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: #fff;
+  height: 45px;
+  width: 100%;
+}
+
+.app-button:hover,
+.app-button:focus {
+  box-shadow: 0 8px 12px -8px #f51344;
+}
